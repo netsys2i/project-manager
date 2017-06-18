@@ -9,7 +9,8 @@ Before anything, you need the following software installed on your machine:
   * [Node](https://nodejs.org/en/download/current/)
   * [Bootstrap](http://getbootstrap.com/getting-started/#download)
   * [PostgreSQL](https://www.postgresql.org/download/)
-  * [Git for Windows](https://git-for-windows.github.io/) 
+  * [Git for Windows](https://git-for-windows.github.io/)
+  * [PGAdmin](https://www.pgadmin.org/download/)
 
 Project installation
 --------------------
